@@ -1,0 +1,64 @@
+{
+  "files": [
+    {
+      "id": 1,
+      "name": "示例文档.pdf",
+      "description": "这是一个示例PDF文档",
+      "size": "2.5 MB",
+      "category": "文档",
+      "path": "/files/sample-document.pdf",
+      "icon": "📄",
+      "uploadedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "项目说明.docx",
+      "description": "项目详细说明文档",
+      "size": "1.2 MB",
+      "category": "文档",
+      "path": "/files/project-readme.docx",
+      "icon": "📝",
+      "uploadedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "数据报表.xlsx",
+      "description": "Excel数据统计报表",
+      "size": "800 KB",
+      "category": "表格",
+      "path": "/files/data-report.xlsx",
+      "icon": "📊",
+      "uploadedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "name": "演示文稿.pptx",
+      "description": "PowerPoint演示文稿",
+      "size": "5.3 MB",
+      "category": "演示",
+      "path": "/files/presentation.pptx",
+      "icon": "📽️",
+      "uploadedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "name": "压缩包.zip",
+      "description": "资源打包文件",
+      "size": "10.5 MB",
+      "category": "压缩包",
+      "path": "/files/resources.zip",
+      "icon": "📦",
+      "uploadedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "name": "图片素材.jpg",
+      "description": "高清图片素材",
+      "size": "3.2 MB",
+      "category": "图片",
+      "path": "/files/image-asset.jpg",
+      "icon": "🖼️",
+      "uploadedAt": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}
